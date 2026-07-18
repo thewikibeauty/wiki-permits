@@ -65,8 +65,7 @@
       "authorityEn": "Saudi Food and Drug Authority",
       "documentTypeAr": "إشعار تسويق منتج تجميلي",
       "documentTypeEn": "Cosmetic Product Marketing Notification",
-        "status": "active",
-      "image": "55555.png"
+        "status": "active"
     }
   },
   "packages": {
