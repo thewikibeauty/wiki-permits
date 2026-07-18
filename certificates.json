@@ -1,0 +1,63 @@
+{
+  "certificates": {
+    "B001": {
+      "sku": "B001",
+      "officialName": "Wiki Beauty Body Mist ml",
+      "nameAr": "معطر جسم ويكي بيوتي",
+      "nameEn": "Wiki Beauty Body Mist",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2026-88613",
+      "issueDate": "2026-07-16",
+      "expiryDate": "2031-07-16",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Cosmetic Product Marketing Notification",
+      "image": "B001.png"
+    },
+    "H001": {
+      "sku": "H001",
+      "officialName": "Wiki Beauty Hair Perfume ml",
+      "nameAr": "معطر شعر ويكي بيوتي",
+      "nameEn": "Wiki Beauty Hair Perfume",
+      "categoryAr": "منتجات الشعر وفروة الرأس",
+      "categoryEn": "Hair and scalp products",
+      "notificationNumber": "CN-2026-88570",
+      "issueDate": "2026-07-16",
+      "expiryDate": "2031-07-16",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Cosmetic Product Marketing Notification",
+      "image": "H001.png"
+    },
+    "PH001": {
+      "sku": "PH001",
+      "officialName": "Wiki Beauty Pheromone Body Drops",
+      "nameAr": "قطرة فرمونية ويكي بيوتي",
+      "nameEn": "Wiki Beauty Pheromone Body Drops",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2026-88601",
+      "issueDate": "2026-07-16",
+      "expiryDate": "2031-07-16",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Cosmetic Product Marketing Notification",
+      "image": "PH001.png"
+    }
+  },
+  "packages": {
+    "P001": {
+      "nameAr": "بكج ويكي بيوتي",
+      "nameEn": "Wiki Beauty Bundle",
+      "certificates": [
+        "B001",
+        "H001",
+        "PH001"
+      ]
+    }
+  }
+}
