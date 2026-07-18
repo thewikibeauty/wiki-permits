@@ -14,6 +14,7 @@
       "authorityEn": "Saudi Food and Drug Authority",
       "documentTypeAr": "إشعار تسويق منتج تجميلي",
       "documentTypeEn": "Cosmetic Product Marketing Notification",
+        "status": "active",
       "image": "B001.png"
     },
     "H001": {
@@ -30,6 +31,7 @@
       "authorityEn": "Saudi Food and Drug Authority",
       "documentTypeAr": "إشعار تسويق منتج تجميلي",
       "documentTypeEn": "Cosmetic Product Marketing Notification",
+        "status": "active",
       "image": "H001.png"
     },
     "PH001": {
@@ -46,7 +48,25 @@
       "authorityEn": "Saudi Food and Drug Authority",
       "documentTypeAr": "إشعار تسويق منتج تجميلي",
       "documentTypeEn": "Cosmetic Product Marketing Notification",
+        "status": "active",
       "image": "PH001.png"
+    },
+    "55555": {
+      "sku": "55555",
+      "officialName": "Wiki Beauty Test Product",
+      "nameAr": "منتج ويكي بيوتي التجريبي",
+      "nameEn": "Wiki Beauty Test Product",
+      "categoryAr": "منتجات تجميلية تجريبية",
+      "categoryEn": "Test cosmetic products",
+      "notificationNumber": "CN-2026-55555",
+      "issueDate": "2026-07-18",
+      "expiryDate": "2031-07-18",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Cosmetic Product Marketing Notification",
+        "status": "active",
+      "image": "55555.png"
     }
   },
   "packages": {
