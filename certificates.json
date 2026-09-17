@@ -52,21 +52,22 @@
       "image": "PH001.png"
     },
     "P002": {
-      "sku": "P002",
-      "officialName": "DEAR MUSK",
-      "nameAr": "مسك الغزال",
-      "nameEn": "Wiki Beauty Dear Musk",
-      "categoryAr": "منتجات البشرة",
-      "categoryEn": "Skin products",
-      "notificationNumber": "CN-2026-113411",
-      "issueDate": "2026-09-13",
-      "expiryDate": "2031-09-13",
-      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
-      "authorityEn": "Saudi Food and Drug Authority",
-      "documentTypeAr": "إشعار تسويق منتج تجميلي",
-      "documentTypeEn": "Cosmetic Product Marketing Notification",
-        "status": "active"
-    }
+  "sku": "P002",
+  "officialName": "DEAR MUSK",
+  "nameAr": "مسك الغزال",
+  "nameEn": "Wiki Beauty Dear Musk",
+  "categoryAr": "منتجات البشرة",
+  "categoryEn": "Skin products",
+  "notificationNumber": "CN-2026-113411",
+  "issueDate": "2026-09-13",
+  "expiryDate": "2031-09-13",
+  "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+  "authorityEn": "Saudi Food and Drug Authority",
+  "documentTypeAr": "إشعار تسويق منتج تجميلي",
+  "documentTypeEn": "Cosmetic Product Marketing Notification",
+  "status": "active",
+  "image": "P002.png"
+}
   },
   "packages": {
     "P001": {
